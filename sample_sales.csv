@@ -1,0 +1,33 @@
+Order_ID,Order_Date,Region,Category,Product,Sales,Quantity,Profit,Customer_Type,Payment_Method
+1001,2026-01-04,East,Electronics,Laptop,82000,2,12400,Enterprise,Credit Card
+1002,2026-01-08,West,Electronics,Phone,36000,3,2600,Consumer,UPI
+1003,2026-01-13,South,Furniture,Ergo Chair,14500,4,3100,Small Business,Debit Card
+1004,2026-01-21,North,Office Supplies,Printer Paper,5200,12,900,Consumer,Cash
+1005,2026-02-02,East,Electronics,Tablet,28000,2,4200,Consumer,UPI
+1006,2026-02-09,West,Furniture,Standing Desk,46000,2,7800,Enterprise,Bank Transfer
+1007,2026-02-16,South,Office Supplies,Ink Cartridge,9400,8,1400,Small Business,Credit Card
+1008,2026-02-27,North,Electronics,Monitor,31500,3,5200,Enterprise,Credit Card
+1009,2026-03-03,East,Furniture,Conference Table,58000,1,9300,Enterprise,Bank Transfer
+1010,2026-03-12,West,Electronics,Headphones,12600,6,2600,Consumer,UPI
+1011,2026-03-18,South,Electronics,Laptop,79000,2,11200,Small Business,Credit Card
+1012,2026-03-28,North,Office Supplies,Notebook Pack,3600,20,640,Consumer,Cash
+1013,2026-04-05,East,Office Supplies,Desk Organizer,6800,10,1200,Consumer,Debit Card
+1014,2026-04-11,West,Furniture,Ergo Chair,21800,5,4200,Small Business,UPI
+1015,2026-04-19,South,Electronics,Phone,41000,3,4800,Consumer,Credit Card
+1016,2026-04-27,North,Furniture,Bookshelf,18500,2,2700,Small Business,Bank Transfer
+1017,2026-05-04,East,Electronics,Monitor,44000,4,7600,Enterprise,Credit Card
+1018,2026-05-10,West,Office Supplies,Printer Paper,7800,18,1300,Enterprise,Bank Transfer
+1019,2026-05-18,South,Furniture,Standing Desk,39000,2,6100,Small Business,UPI
+1020,2026-05-25,North,Electronics,Tablet,25500,2,3500,Consumer,Debit Card
+1021,2026-06-01,East,Electronics,Phone,52000,4,6800,Enterprise,Credit Card
+1022,2026-06-09,West,Furniture,Conference Table,61000,1,10200,Enterprise,Bank Transfer
+1023,2026-06-16,South,Office Supplies,Ink Cartridge,8700,7,1100,Consumer,UPI
+1024,2026-06-24,North,Electronics,Laptop,88000,2,13600,Enterprise,Credit Card
+1025,2026-07-02,East,Furniture,Bookshelf,21000,3,3200,Small Business,Debit Card
+1026,2026-07-12,West,Electronics,Monitor,29500,2,4300,Consumer,UPI
+1027,2026-07-19,South,Office Supplies,Notebook Pack,4200,24,780,Consumer,Cash
+1028,2026-07-27,North,Furniture,Ergo Chair,24000,5,4600,Enterprise,Credit Card
+1029,2026-08-06,East,Office Supplies,Ink Cartridge,9900,9,1600,Small Business,UPI
+1030,2026-08-14,West,Electronics,Laptop,91000,2,14500,Enterprise,Bank Transfer
+1031,2026-08-21,South,Furniture,Standing Desk,40500,2,-1200,Consumer,Credit Card
+1032,2026-08-29,North,Electronics,Headphones,15400,7,3000,Consumer,UPI

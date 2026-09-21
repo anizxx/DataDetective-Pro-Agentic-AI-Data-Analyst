@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+backend/storage/
+data/uploads/*
+!data/uploads/.gitkeep
+reports/*.html
+node_modules/
+dist/
+.DS_Store

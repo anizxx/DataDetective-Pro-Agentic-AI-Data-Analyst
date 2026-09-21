@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,jsx}'], darkMode: 'class', theme: { extend: { colors: { ink: '#152033', mist: '#eef3f8', ocean: '#0f766e', berry: '#9f1239' } } }, plugins: [] }
